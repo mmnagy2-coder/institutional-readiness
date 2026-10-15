@@ -1,0 +1,218 @@
+[
+  {
+    "id": "P1.1",
+    "text": "Who decides which teaching and production uses are permitted, restricted or excluded?",
+    "evidence": "Named authority and decision record",
+    "domain": "P1"
+  },
+  {
+    "id": "P1.2",
+    "text": "Can staff and students explain the current department AI rules?",
+    "evidence": "Published policy plus sampled explanations",
+    "domain": "P1"
+  },
+  {
+    "id": "P1.3",
+    "text": "Do module rules and visiting-tutor instructions agree with institutional policy?",
+    "evidence": "Cross-check of briefs and contracts",
+    "domain": "P1"
+  },
+  {
+    "id": "P1.4",
+    "text": "Are proposed uses evaluated for educational value and preservation of craft?",
+    "evidence": "Use-case rationale and alternative",
+    "domain": "P1"
+  },
+  {
+    "id": "P1.5",
+    "text": "Can people report harm, dispute a decision and receive a response?",
+    "evidence": "Incident and appeal procedure",
+    "domain": "P1"
+  },
+  {
+    "id": "P1.6",
+    "text": "Are policy changes reviewed with students and relevant specialists?",
+    "evidence": "Review minutes, owner and schedule",
+    "domain": "P1"
+  },
+  {
+    "id": "P2.1",
+    "text": "Can each AI input be traced to an appropriate permission or other documented basis for use?",
+    "evidence": "Input-rights ledger",
+    "domain": "P2"
+  },
+  {
+    "id": "P2.2",
+    "text": "Are likeness, voice, scanning, training and reuse permissions separately considered?",
+    "evidence": "Specific documented permissions and review",
+    "domain": "P2"
+  },
+  {
+    "id": "P2.3",
+    "text": "Are AI use and material alterations disclosed appropriately to collaborators, funders and audiences?",
+    "evidence": "Disclosure record by audience",
+    "domain": "P2"
+  },
+  {
+    "id": "P2.4",
+    "text": "Are documentary truth claims, reconstructions and synthetic material clearly distinguished?",
+    "evidence": "Editorial and labelling protocol",
+    "domain": "P2"
+  },
+  {
+    "id": "P2.5",
+    "text": "Are cultural representation, bias and community consultation considered?",
+    "evidence": "Review with relevant participants",
+    "domain": "P2"
+  },
+  {
+    "id": "P2.6",
+    "text": "Are music, archive, output rights and distribution restrictions checked before release?",
+    "evidence": "Chain-of-title and delivery checklist",
+    "domain": "P2"
+  },
+  {
+    "id": "T1.1",
+    "text": "Is there a maintained register of tools, features, versions and approved uses?",
+    "evidence": "Feature-level inventory",
+    "domain": "T1"
+  },
+  {
+    "id": "T1.2",
+    "text": "Do representative lab machines meet measured workflow needs?",
+    "evidence": "Timed local trials and machine specs",
+    "domain": "T1"
+  },
+  {
+    "id": "T1.3",
+    "text": "Do AI assets round-trip through the department's NLE, sound and VFX workflows?",
+    "evidence": "Tested project and export record",
+    "domain": "T1"
+  },
+  {
+    "id": "T1.4",
+    "text": "Can staff manage identities, permissions, updates and account closure?",
+    "evidence": "Joiner/leaver and admin demonstration",
+    "domain": "T1"
+  },
+  {
+    "id": "T1.5",
+    "text": "Can projects be recovered and teaching continue during outages or model withdrawal?",
+    "evidence": "Restore exercise and fallback plan",
+    "domain": "T1"
+  },
+  {
+    "id": "T1.6",
+    "text": "Are provenance, captions, colour, audio and delivery requirements tested?",
+    "evidence": "Representative delivery QA results",
+    "domain": "T1"
+  },
+  {
+    "id": "T2.1",
+    "text": "Are data destinations, retention, subprocessors and training terms understood?",
+    "evidence": "Current contract and data-flow map",
+    "domain": "T2"
+  },
+  {
+    "id": "T2.2",
+    "text": "Have appropriate privacy, security and DPIA screening decisions been recorded?",
+    "evidence": "Responsible professional's review",
+    "domain": "T2"
+  },
+  {
+    "id": "T2.3",
+    "text": "Can students participate without buying personal subscriptions or surrendering unnecessary rights?",
+    "evidence": "Funded access or equivalent alternative",
+    "domain": "T2"
+  },
+  {
+    "id": "T2.4",
+    "text": "Have disabled users tested the workflow and alternatives?",
+    "evidence": "Accessible task testing and adjustments",
+    "domain": "T2"
+  },
+  {
+    "id": "T2.5",
+    "text": "Are total costs sustainable at cohort scale, including failed generations and support?",
+    "evidence": "Scenario-based cost model",
+    "domain": "T2"
+  },
+  {
+    "id": "T2.6",
+    "text": "Are quotas, storage, support time and environmental trade-offs managed?",
+    "evidence": "Usage records and stated measurement limits",
+    "domain": "T2"
+  },
+  {
+    "id": "F1.1",
+    "text": "Can faculty distinguish assistive, generative and agentic functions and their limitations?",
+    "evidence": "Short observed explanation",
+    "domain": "F1"
+  },
+  {
+    "id": "F1.2",
+    "text": "Can faculty complete and explain a relevant AI-assisted filmmaking task?",
+    "evidence": "Demonstration and process notes",
+    "domain": "F1"
+  },
+  {
+    "id": "F1.3",
+    "text": "Can faculty detect errors, bias, continuity faults and invented sources?",
+    "evidence": "Critique of seeded examples",
+    "domain": "F1"
+  },
+  {
+    "id": "F1.4",
+    "text": "Can faculty identify rights, consent and privacy issues in realistic scenarios?",
+    "evidence": "Scenario judgement and escalation",
+    "domain": "F1"
+  },
+  {
+    "id": "F1.5",
+    "text": "Can technicians and tutors support failures and teach a workable alternative?",
+    "evidence": "Troubleshooting exercise",
+    "domain": "F1"
+  },
+  {
+    "id": "F1.6",
+    "text": "Is development sustained across permanent, hourly paid and visiting staff?",
+    "evidence": "Coverage and protected learning time",
+    "domain": "F1"
+  },
+  {
+    "id": "F2.1",
+    "text": "Do briefs specify allowed AI functions, disclosure and learning outcomes?",
+    "evidence": "Student-facing brief",
+    "domain": "F2"
+  },
+  {
+    "id": "F2.2",
+    "text": "Does assessment reveal individual judgement, craft and authorship?",
+    "evidence": "Process evidence, critique and moderation",
+    "domain": "F2"
+  },
+  {
+    "id": "F2.3",
+    "text": "Are foundational filmmaking skills still demonstrable where required?",
+    "evidence": "Appropriate practical assessment",
+    "domain": "F2"
+  },
+  {
+    "id": "F2.4",
+    "text": "Can students question AI use or take an equivalent accessible route?",
+    "evidence": "Alternative pathway and student feedback",
+    "domain": "F2"
+  },
+  {
+    "id": "F2.5",
+    "text": "Are AI allegations handled fairly without treating detection scores as proof?",
+    "evidence": "Academic integrity procedure",
+    "domain": "F2"
+  },
+  {
+    "id": "F2.6",
+    "text": "Does curriculum review respond to industry changes without chasing every new tool?",
+    "evidence": "Reviewed mapping to skills and outcomes",
+    "domain": "F2"
+  }
+]
