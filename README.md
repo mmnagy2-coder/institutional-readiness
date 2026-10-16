@@ -8,7 +8,7 @@ Use Node.js 24 and `npm ci`, then `npm run dev`. `npm test` checks scoring rules
 
 ## Included
 
-Cinematic dark dashboard; original 36-question rubric; editable department name; maturity ratings, unknown and non-applicable states; evidence references and notes; action ownership and completion; curated primary-source library; report with coverage and index withholding; JSON export and printable report.
+Cinematic dark dashboard; in-app How to use guide and assessment help; original 36-question rubric; editable department name; maturity ratings, unknown and non-applicable states; evidence references and notes; action ownership and completion; curated primary-source library; report with coverage and index withholding; JSON export and printable report.
 
 The fictional Northbank example is seeded on first visit. Edits are saved in this browser's local storage. Do not enter confidential institutional evidence. Scores are self-reported and unreviewed; the app does not certify compliance. Non-applicability choices require future human review. The methodology is original and unvalidated.
 
